@@ -1,0 +1,70 @@
+[
+    {
+      "nama": "Adit",
+      "age": 26,
+      "addresses": [
+        {
+          "village": "Petahunan RT 01/ RW 01",
+          "district": "Sempor",
+          "regency": "Kebumen",
+          "province": "Jawa Tengah"
+        }
+      ],
+      "hobbies": [
+        "Gaming",
+        "Coding",
+        "Touring"
+      ]
+    },
+    {
+      "nama": "Hakim",
+      "age": 26,
+      "addresses": [
+        {
+          "village": "Gunung pati",
+          "district": "Semarang barat",
+          "regency": "Semarang",
+          "province": "Jawa Tengah"
+        }
+      ],
+      "hobbies": [
+        "Gaming",
+        "Coding",
+        "Touring"
+      ]
+    },
+    {
+      "nama": "Dio",
+      "age": 26,
+      "addresses": [
+        {
+          "village": "Banyu Biru",
+          "district": "Ambarawa",
+          "regency": "Kab. Semarang",
+          "province": "Jawa Tengah"
+        }
+      ],
+      "hobbies": [
+        "Gaming",
+        "Coding",
+        "Touring"
+      ]
+    },
+    {
+      "nama": "Danang",
+      "age": 26,
+      "addresses": [
+        {
+          "village": "Purwodadi",
+          "district": "Purwodadi",
+          "regency": "Purwodadi",
+          "province": "Jawa Tengah"
+        }
+      ],
+      "hobbies": [
+        "Gaming",
+        "Coding",
+        "Touring"
+      ]
+    }
+  ]

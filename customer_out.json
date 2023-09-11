@@ -1,0 +1,16 @@
+{
+    "nama": "Putra",
+    "age": 32,
+    "addresses": [
+      {
+        "village": "Sambiroto",
+        "district": "Tembalang",
+        "regency": "Kota Semarang",
+        "province": "Jawa Tengah"
+      }
+    ],
+    "hobbies": [
+      "Futsal",
+      "Coding"
+    ]
+  }
