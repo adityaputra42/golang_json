@@ -24,7 +24,7 @@ func TestJsonObject(t *testing.T) {
 	customer := Customer{
 		Name:      "Aditya",
 		Age:       27,
-		Addresses: []Address{Address{Village: "Petahunan RT 01/ RW 01", District: "Sempor", Regency: "Kebumen", Province: "Jawa Tengah"}},
+		Addresses: []Address{{Village: "Petahunan RT 01/ RW 01", District: "Sempor", Regency: "Kebumen", Province: "Jawa Tengah"}},
 	}
 	bytes, _ := json.Marshal(customer)
 	fmt.Println(string(bytes))
